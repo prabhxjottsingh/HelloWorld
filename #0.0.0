@@ -1,0 +1,6 @@
+#include<iostream>
+int main()
+{
+     std::cout<<"Hey, programmers/coders/creaters. Wish me luck for my future journey, I am so excited.";
+     return 0;
+}     
